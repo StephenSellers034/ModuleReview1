@@ -1,0 +1,15 @@
+/Users/stephensellers034/Desktop/repos/ModuleReview1/ModuleReview1/ModuleReview1/bin/Debug/net7.0/ModuleReview1
+/Users/stephensellers034/Desktop/repos/ModuleReview1/ModuleReview1/ModuleReview1/bin/Debug/net7.0/ModuleReview1.deps.json
+/Users/stephensellers034/Desktop/repos/ModuleReview1/ModuleReview1/ModuleReview1/bin/Debug/net7.0/ModuleReview1.runtimeconfig.json
+/Users/stephensellers034/Desktop/repos/ModuleReview1/ModuleReview1/ModuleReview1/bin/Debug/net7.0/ModuleReview1.dll
+/Users/stephensellers034/Desktop/repos/ModuleReview1/ModuleReview1/ModuleReview1/bin/Debug/net7.0/ModuleReview1.pdb
+/Users/stephensellers034/Desktop/repos/ModuleReview1/ModuleReview1/ModuleReview1/obj/Debug/net7.0/ModuleReview1.csproj.AssemblyReference.cache
+/Users/stephensellers034/Desktop/repos/ModuleReview1/ModuleReview1/ModuleReview1/obj/Debug/net7.0/ModuleReview1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stephensellers034/Desktop/repos/ModuleReview1/ModuleReview1/ModuleReview1/obj/Debug/net7.0/ModuleReview1.AssemblyInfoInputs.cache
+/Users/stephensellers034/Desktop/repos/ModuleReview1/ModuleReview1/ModuleReview1/obj/Debug/net7.0/ModuleReview1.AssemblyInfo.cs
+/Users/stephensellers034/Desktop/repos/ModuleReview1/ModuleReview1/ModuleReview1/obj/Debug/net7.0/ModuleReview1.csproj.CoreCompileInputs.cache
+/Users/stephensellers034/Desktop/repos/ModuleReview1/ModuleReview1/ModuleReview1/obj/Debug/net7.0/ModuleReview1.dll
+/Users/stephensellers034/Desktop/repos/ModuleReview1/ModuleReview1/ModuleReview1/obj/Debug/net7.0/refint/ModuleReview1.dll
+/Users/stephensellers034/Desktop/repos/ModuleReview1/ModuleReview1/ModuleReview1/obj/Debug/net7.0/ModuleReview1.pdb
+/Users/stephensellers034/Desktop/repos/ModuleReview1/ModuleReview1/ModuleReview1/obj/Debug/net7.0/ModuleReview1.genruntimeconfig.cache
+/Users/stephensellers034/Desktop/repos/ModuleReview1/ModuleReview1/ModuleReview1/obj/Debug/net7.0/ref/ModuleReview1.dll
