@@ -6,6 +6,7 @@ class Program
     {
         CircleArea(7);
         TriangleArea(12, 4);
+        RectangleArea(5, 6);
     }
 
     public static void CircleArea(double radius)
@@ -25,8 +26,19 @@ class Program
         height = Convert.ToDouble(Console.ReadLine());
         double area = baseLength * height / 2;
         Console.WriteLine("Area of Triangle is : {0}", area);
-        Console.ReadLine();
+        
     }
+
+    public static void RectangleArea(double length, double width)
+    {
+        Console.WriteLine($"Enter the Length of the Rectangle: {length} ");
+        length = Convert.ToDouble(Console.ReadLine());
+        Console.WriteLine($"Enter the Width of Rectangle: {width}");
+        width = Convert.ToDouble(Console.ReadLine());
+        double area = length * width;
+        Console.WriteLine($"The area of the Rectangle is: {area}");
+    }
+    
 
 
 }
