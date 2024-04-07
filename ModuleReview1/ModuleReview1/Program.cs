@@ -7,6 +7,7 @@ class Program
         CircleArea(7);
         TriangleArea(12, 4);
         RectangleArea(5, 6);
+        SquareArea();
     }
 
     public static void CircleArea(double radius)
@@ -37,6 +38,18 @@ class Program
         width = Convert.ToDouble(Console.ReadLine());
         double area = length * width;
         Console.WriteLine($"The area of the Rectangle is: {area}");
+    }
+
+    public static double SquareArea()
+    {
+        Console.WriteLine("Enter measurement of side.");
+        double userInput = double.Parse(Console.ReadLine());
+        double side = userInput;
+        double area = side * side;
+        Console.WriteLine($"Area of Square with side {side} is {area} ");
+        Console.ReadKey();
+        return area;
+
     }
     
 
